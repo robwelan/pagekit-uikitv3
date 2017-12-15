@@ -1,0 +1,18 @@
+{
+    "name": "rmwits/rmwits-uikit",
+    "type": "pagekit-theme",
+    "version": "1.0.0",
+    "title": "rmwits-uikit",
+    "description": "A theme based on uikit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rob Welan",
+            "email": "rmw.its@gmail.com",
+            "homepage": "http://creatureoftech.wixsite.com/rmw-its"
+        }
+    ],
+    "extra": {
+        "image": "image.jpg"
+    }
+}
